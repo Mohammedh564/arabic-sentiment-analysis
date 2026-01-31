@@ -1,0 +1,14 @@
+beautifulsoup4
+nltk
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+joblib
+transformers
+torch
+datasets
+peft
+fastapi
+uvicorn
