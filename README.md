@@ -1,4 +1,4 @@
-# Arabic Sentiment Analysis API
+# Arabic Sentiment Analysis 
 
 A simple FastAPI application for Arabic sentiment analysis using a fine-tuned AraBERT model with LoRA (PEFT).
 
