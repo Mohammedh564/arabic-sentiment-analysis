@@ -1,8 +1,7 @@
 # Arabic Sentiment Analysis 
 
-A simple FastAPI application for Arabic sentiment analysis using a fine-tuned AraBERT model with LoRA (PEFT).
 
-The API takes Arabic text as input and returns the predicted sentiment class.
+End-to-end Arabic sentiment analysis using AraBERT fine-tuned with LoRA. Includes preprocessing, baseline ML model, transformer training, evaluation, error analysis, and deployment via FastAPI for real-time sentiment prediction.
 
 ---
 
